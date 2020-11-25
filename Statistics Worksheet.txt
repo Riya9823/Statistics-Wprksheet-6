@@ -1,1 +1,48 @@
+1. B
+2. C
+3. A
+4. A
+5. A
+6. B
+7. B
+8. D
+9. A
+10. Bayes' Theorem is a way of finding a probability when we know certain other probabilities.
+    The formula is:
+                  
+                  P(A|B) =  P(A) P(B|A)P(B) 
+
+      Which tells us:	 	how often A happens given that B happens, written P(A|B),
+      When we know:	 	how often B happens given that A happens, written P(B|A)
+ 	 	  and how likely A is on its own, written P(A)
+ 	 	  and how likely B is on its own, written P(B)
+11. Z-score (also called a standard score) gives you an idea of how far from the mean a data point is. But more technically it’s a measure of how many standard deviations
+    below or above the population mean a raw score is.  
+    The formula is:
+                  
+                  Z = \frac{x - \mu}{\sigma}
+
+           Z	=	standard score
+           x	=	observed value
+           \mu	=	mean of the sample
+           \sigma	=	standard deviation of the sample
+12. A t-test is a type of inferential statistic used to determine if there is a significant difference between the means of two groups, which may be related in certain features. 
+    The formula is:
+               
+                 t=\frac{m-\mu}{s / \sqrt{n}}
+ 
+            t	=	Student's t-test
+            m	=	mean
+            \mu	=	theoretical value
+            s	=	standard deviation
+            {n}	=	variable set size
+13. A percentile is a type of quantile which divides the given probability distribution, or sample, into 100 equal-sized intervals; this allows the data to be analyzed in
+    terms of percentages.Percentile scores indicate the percentage of scores within a specific external comparison group that are lower than an individual test taker's score.
+14. Analysis of variance (ANOVA) is an analysis tool used in statistics that splits an observed aggregate variability found inside a data set into two parts: systematic factors
+    and random factors. The systematic factors have a statistical influence on the given data set, while the random factors do not.
+15. Analysts use the ANOVA test to determine the influence that independent variables have on the dependent variable in a regression study. In other words, they help you to
+    figure out if you need to reject the null hypothesis or accept the alternate hypothesis.
+
+ 
+              
 
